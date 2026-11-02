@@ -21,7 +21,9 @@ Other configurations are unverified. The earlier manual version successfully han
 
 > **Important:** Starting the EFI starts an automatic hardware attempt when its checks pass. It is not a read-only test. It may hang and require a full power-off. Do not bypass failed checks, even on an apparently identical laptop.
 
-**Download status:** The EFI is uploaded as an unpublished release draft, so there is currently no public binary download. The instructions below apply if you already have the file. See [binary availability](BINARY-AVAILABILITY.md) for the unresolved distribution issue.
+**[Download the ready-to-use EFI](https://github.com/ooxtcoo/lenovo-legion-83g0-gpu-unlock/releases/download/auto-v2-experimental/Lenovo-AD103M-Unlock-v5-auto-v2.efi)** · [Release, checksums and license notices](https://github.com/ooxtcoo/lenovo-legion-83g0-gpu-unlock/releases/tag/auto-v2-experimental)
+
+This is an experimental pre-release, not a hardware-safety certification. Read the preparation and USB instructions below before starting it.
 
 ### Prepare
 
