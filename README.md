@@ -2,8 +2,6 @@
 
 An experimental UEFI GPU unlock for a specific Lenovo Legion laptop, with automatic Windows handoff. This project shares the work so other owners and developers do not have to start from scratch.
 
-The owner reports **38 → 48+ tokens/s in Strata**. This is an encouraging observation, not a controlled benchmark: power-adapter and other test conditions were not fully matched. Your results may differ.
-
 ## 1. Use and test
 
 ### Check your laptop first
