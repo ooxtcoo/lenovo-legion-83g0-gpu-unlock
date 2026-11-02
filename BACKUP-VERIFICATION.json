@@ -1,0 +1,28 @@
+{
+  "original_tree_unchanged": true,
+  "original_tree_files_verified": 1984,
+  "application_source_files_byte_identical": 60,
+  "archive_crc_and_all_member_sha256_pass": true,
+  "clean_extraction_build_exit": 0,
+  "classifier_assertions_passed": 457888,
+  "classifier_run_from_clean_extraction": true,
+  "classifier_run_from_firmware_free_github_copy": true,
+  "rebuilt_efi_sha256": "0ce19bc11860a4cda0d7e44ff550e5604d555887e2e3e741166367d6a9a0bee4",
+  "original_efi_sha256": "3cb4a2725b953ec6c99ea7ac1c179a004ba34ee2f568a569952b5c5ccbd59faa",
+  "rebuilt_differences_only_coff_timestamp": true,
+  "differing_offsets": [
+    128,
+    129,
+    130
+  ],
+  "payloads_verified": 5,
+  "dir64_relocations_verified": 70,
+  "embedded_pointer_relocations_verified": 10,
+  "hardware_executed": false,
+  "whole_application_575_cases_rerun": false,
+  "whole_application_limitation": "Private PROM and old baseline/evidence siblings deliberately omitted; historical closure retained, not rerun.",
+  "toolchain": "Python 3.11; uv ziglang==0.13.0 (downloaded after missing offline cache)",
+  "compiler_warnings": "Six unused C-option warnings for assembly; build exit 0.",
+  "secret_scan": "Pattern and forbidden-file scan: zero findings; not a proof against every possible secret.",
+  "git_firmware_policy": "All five firmware assets and embedded EFI omitted pending distribution review; authentic bytes retained in private local/USB backup."
+}

@@ -1,0 +1,14 @@
+# Local-only firmware and generated outputs are never publication inputs.
+/assets/
+/build/
+/host-*/
+/private/
+/.venv/
+__pycache__/
+*.pyc
+.env*
+*.rom
+*.pdb
+*.exe
+*.efi
+/evidence/backup-*.json
